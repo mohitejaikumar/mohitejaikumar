@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mohitejaikumar
-- 👀 I’m interested in  Competitive Programming
+- 👀 I’m interested in  Competitive Programming and Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+
 
 <!---
 mohitejaikumar/mohitejaikumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
