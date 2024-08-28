@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohitejaikumar
 - 👀 I’m interested in  Competitive Programming , Web Development and App Development
-- 🌱 I'm currently learning App Development using React-Native .
+- 🌱 I'm currently learning Web3 .
 
 
 <!---
